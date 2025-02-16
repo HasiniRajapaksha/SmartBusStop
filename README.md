@@ -54,21 +54,7 @@ npm run dev
 │── README.md
 ```
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 
 🚀 **Contributions & Feedback Welcome!** 😊
 ```
 
----
-
-🔹 **This README includes:**  
-- A **brief project introduction**  
-- A **clear feature list**  
-- **Step-by-step setup instructions**  
-- **Project structure** for easy navigation  
-- **License & contribution encouragement**  
-
-Let me know if you want modifications! 🚀
